@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519515045 source:c:\users\khoa do\desktop\datacompproject\project1_server\main.cpp
+	<iostream>
+	<winsock2.h>
+
