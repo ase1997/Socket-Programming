@@ -8,7 +8,7 @@ UNCC ECGR 3123 (Data Communication and Networking I) Project 1
   - Find the name of the device and send it to the client
   - Create the interface between two windows instances (programs) at a same time
 
-## Dependencies:
+## Dependencies
   - Microsoft Visual Studio
 
 ## About the Repo.
