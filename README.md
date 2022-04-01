@@ -16,7 +16,7 @@ UNCC ECGR 3123 (Data Communication and Networking I) Project 1
   - **Project1_Server** for server
   - Final report details the implementations of the C++ functions in this project along with the results + analysis
 
-## Author
+## Authors
 Khoa Do. Jonathan Stevens. All Rights Reserved.
 
 ## Reference
